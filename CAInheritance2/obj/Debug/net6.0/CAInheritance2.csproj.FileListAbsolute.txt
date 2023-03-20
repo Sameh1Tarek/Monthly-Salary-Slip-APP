@@ -1,0 +1,15 @@
+D:\programming\C#\CAInheritance2\CAInheritance2\bin\Debug\net6.0\CAInheritance2.exe
+D:\programming\C#\CAInheritance2\CAInheritance2\bin\Debug\net6.0\CAInheritance2.deps.json
+D:\programming\C#\CAInheritance2\CAInheritance2\bin\Debug\net6.0\CAInheritance2.runtimeconfig.json
+D:\programming\C#\CAInheritance2\CAInheritance2\bin\Debug\net6.0\CAInheritance2.dll
+D:\programming\C#\CAInheritance2\CAInheritance2\bin\Debug\net6.0\CAInheritance2.pdb
+D:\programming\C#\CAInheritance2\CAInheritance2\obj\Debug\net6.0\CAInheritance2.csproj.AssemblyReference.cache
+D:\programming\C#\CAInheritance2\CAInheritance2\obj\Debug\net6.0\CAInheritance2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\CAInheritance2\CAInheritance2\obj\Debug\net6.0\CAInheritance2.AssemblyInfoInputs.cache
+D:\programming\C#\CAInheritance2\CAInheritance2\obj\Debug\net6.0\CAInheritance2.AssemblyInfo.cs
+D:\programming\C#\CAInheritance2\CAInheritance2\obj\Debug\net6.0\CAInheritance2.csproj.CoreCompileInputs.cache
+D:\programming\C#\CAInheritance2\CAInheritance2\obj\Debug\net6.0\CAInheritance2.dll
+D:\programming\C#\CAInheritance2\CAInheritance2\obj\Debug\net6.0\refint\CAInheritance2.dll
+D:\programming\C#\CAInheritance2\CAInheritance2\obj\Debug\net6.0\CAInheritance2.pdb
+D:\programming\C#\CAInheritance2\CAInheritance2\obj\Debug\net6.0\CAInheritance2.genruntimeconfig.cache
+D:\programming\C#\CAInheritance2\CAInheritance2\obj\Debug\net6.0\ref\CAInheritance2.dll
